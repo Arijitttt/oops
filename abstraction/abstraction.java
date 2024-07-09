@@ -1,3 +1,4 @@
+package abstraction;
 abstract class Base{
     public void fun1(){
         System.out.println("Red");
