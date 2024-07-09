@@ -1,3 +1,4 @@
+package polymorphism.function_hiding;
 class Base{
     public static void fun(){
         System.out.println("Red");
